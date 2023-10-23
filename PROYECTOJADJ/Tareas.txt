@@ -1,0 +1,15 @@
+1. Factura falta decir que si es Balanceo envie cuantas llantas desea alinear 
+2. Factura Atributo ArrayList Tecnico o en su defecto Tecnico solamente -----------------------------
+3. Eliminar Camioneta Y dejar una clase vehiculo ---------------------------------
+4. Terminar Nomina----------------------------------------
+5. Servicios recibir precio por servicio ---------------------------
+
+6. Menu de empleado no me regresa al principal -------------------------
+7. Label por String en lecturas de mas de una palabra--------------------------
+8. Excepciones de null---------------  y lectura de double o float
+9. Validacion con do while Tecnico 
+10.Acomodar porcentaje y costo -------------------------
+11.Implementar Nomina--------------------------------
+12.Falta Alineacion los precios
+
+FALTA PROBAR TODOOOOOOOOOOO
